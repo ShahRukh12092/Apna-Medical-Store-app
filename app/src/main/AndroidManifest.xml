@@ -15,7 +15,7 @@
         android:theme="@style/Theme.Project">
 
         <meta-data android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyC-xHc-oW2OX8EK0P5U3eyhHoAbmkSShTM"/>
+            android:value="Enter your own key"/>
 
         <activity android:name=".Order_continue"></activity>
         <activity android:name=".Track" />
