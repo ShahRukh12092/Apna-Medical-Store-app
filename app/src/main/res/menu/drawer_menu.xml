@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Home"
+        android:icon="@drawable/ic_baseline_home_24"
+        android:id="@+id/Home"
+        />
+
+    <item android:title="Profile"
+        android:icon="@drawable/ic_user"
+        android:id="@+id/profie"
+        />
+
+    <item android:title="Logout"
+        android:icon="@drawable/ic_exit"
+        android:id="@+id/logout"
+        />
+</menu>

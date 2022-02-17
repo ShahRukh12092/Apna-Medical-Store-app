@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ApnaMedical Store</string>
+    <string name="contanct_number">Contanct Number</string>
+
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="welcome_back_to_onleine_medical_store">Welcome back to ApnaMedical Store</string>
+    <string name="todo">TODO</string>
+
+    <string name="quote">Life is not a multiple choice test,"\n" it\'s an open-book essay exam.</string>
+    <string name="get_started">Get Started</string>
+    <string name="welcome">Welcome to ApnaMedical Store</string>
+    <string name="wave">wave pics</string>
+    <string name="welcome_svg">welcome pics</string>
+    <string name="email">Email</string>
+    <string name="please">please enter credentials to continue</string>
+    <string name="login_heading">LOGIN</string>
+    <string name="dont">Do not have account? Sign Up</string>
+    <string name="signup_heading">SIGNUP</string>
+    <string name="Confpassword">Confirm the Password</string>
+    <string name="have">Already have a account? Signin</string>
+    <string name="Signup">SIGN UP</string>
+    <string name="quiz_yourself_daily">Quiz yourself Daily</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="sub">Submit</string>
+    <string name="megaquiz">MegaQuiz</string>
+    <string name="logout">LOGOUT</string>
+    <string name="your_score_is">Your Score is</string>
+    <string name="home">Home</string>
+    <string name="password">Password</string>
+    <string name="check_the_records">Check the Records</string>
+    <string name="order_the_medicine">Order the Medicine</string>
+    <string name="trace_the_order">TracK the Order</string>
+    <string name="medicne_5">Medicne #5</string>
+    <string name="quantity">Quantity</string>
+    <string name="medicne_4">Medicne #4</string>
+    <string name="medicne_3">Medicne #3</string>
+    <string name="medicne_2">Medicne #2</string>
+    <string name="medicne_1">Medicne #1</string>
+    <string name="place_order">Place Order</string>
+    <string name="not_interseted_go_back">Not Interseted GO BACK</string>
+    <string name="already_have_account_signin">Already have account? SignIN</string>
+    <string name="sign_up">SIGN UP</string>
+</resources>
